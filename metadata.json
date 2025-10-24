@@ -1,0 +1,7 @@
+{
+  "name": "Echo Scribe",
+  "description": "An application that records your voice, uses AI to create a concise summary, and synthesizes it back into clean audio. You can choose a male or female voice for the output and download the final memo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
